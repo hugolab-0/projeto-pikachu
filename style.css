@@ -1,4 +1,4 @@
-body{
-    background-color: #F5CF06;
-    
+:root{
+    --primary-color: #F5CF06;
+    --secundary-color: #8E4106;
 }
